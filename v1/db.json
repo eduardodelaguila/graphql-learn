@@ -34,6 +34,13 @@
       "age": 34,
       "nickName": "Copperhead",
       "companyId": "1"
+    },
+    {
+      "firstName": "Elle Driver",
+      "nickName": "Bitch",
+      "companyId": "1",
+      "id": "6",
+      "age": 29
     }
   ],
   "companies": [
