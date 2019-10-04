@@ -1,2 +1,1 @@
-# graphql-learn
-Repository for GraphQL Tutorial
+graphql-learn
