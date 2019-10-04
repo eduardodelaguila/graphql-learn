@@ -1,51 +1,51 @@
 {
-    "users": [
-        {
-            "id": "1",
-            "firstName": "Bill",
-            "age": 68,
-            "nickName": "Snake Charmer",
-            "companyId": "1"
-        },
-        {
-            "id": "2",
-            "firstName": "Beatrix Kiddo",
-            "age": 28,
-            "nickName": "Black Mamba",
-            "companyId": "1"
-        },
-        {
-            "id": "3",
-            "firstName": "Budd",
-            "age": 42,
-            "nickName": "Sidewinder",
-            "companyId": "2"
-        },
-        {
-            "id": "4",
-            "firstName": "O-Ren Ishii",
-            "age": 29,
-            "nickName": "Cottonmouth",
-            "companyId": "2"
-        },
-        {
-            "id": "5",
-            "firstName": "Vernita Green",
-            "age": 34,
-            "nickName": "Copperhead",
-            "companyId": "1"
-        }
-    ],
-    "companies": [
-        {
-            "id": "1",
-            "name": "Luxoft",
-            "description": ""
-        },
-        {
-            "id": "2",
-            "name": "DXC",
-            "description": ""
-        }
-    ]
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Bill",
+      "age": 68,
+      "nickName": "Snake Charmer",
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "Beatrix Kiddo",
+      "age": 28,
+      "nickName": "Black Mamba",
+      "companyId": "1"
+    },
+    {
+      "id": "3",
+      "firstName": "Budd",
+      "age": 42,
+      "nickName": "Sidewinder",
+      "companyId": "2"
+    },
+    {
+      "id": "4",
+      "firstName": "O-Ren Ishii",
+      "age": 29,
+      "nickName": "Cottonmouth",
+      "companyId": "2"
+    },
+    {
+      "id": "5",
+      "firstName": "Vernita Green",
+      "age": 34,
+      "nickName": "Copperhead",
+      "companyId": "1"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Luxoft",
+      "description": ""
+    },
+    {
+      "id": "2",
+      "name": "DXC",
+      "description": ""
+    }
+  ]
 }
